@@ -3,7 +3,7 @@
 #### Description:
 TM(Trash Masters) is a group project that uses a Resnet50 model from the Pytorch library to sort between recyclable and non-recyclable wastes by using Resnet's ability for object recognition and classification. 
 
-####Supported Materials:
+#### Supported Materials:
 - Glass
 - Metal
 - Plastic
@@ -14,7 +14,7 @@ TM(Trash Masters) is a group project that uses a Resnet50 model from the Pytorch
 - Styrofoam
 - Wood
 
-####Technologies and Libraries Used
+#### Technologies and Libraries Used
 - Python3
 - Pytorch
 - SciKitLearn
